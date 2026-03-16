@@ -149,7 +149,7 @@ Software development student with experience in:
 - SQL
 - Web development
 
-GitHub: https://github.com/YOURUSERNAME
+GitHub: https://github.com/ChadLeeRedelinghuys
 
 
 
