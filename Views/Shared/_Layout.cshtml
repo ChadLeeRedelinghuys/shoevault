@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ShoeVault</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ShoeVault.styles.css" asp-append-version="true" />
+</head>
+<body class="bg-dark text-light">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-black border-bottom border-secondary">
+
+            <div class="container-fluid">
+                <a class="navbar-brand d-flex align-items-center text-light fw-bold"
+                   asp-controller="Home"
+                   asp-action="Index">
+                    <img src="~/images/logo.svg"
+                         alt="ShoeVault Logo"
+                         style="height:35px;"
+                         class="me-2" />
+                    ShoeVault
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+
+                    <!-- Left side navigation -->
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-light"
+                               href="#"
+                               role="button"
+                               data-bs-toggle="dropdown">
+                                Collection
+                            </a>
+
+                            <ul class="dropdown-menu dropdown-menu-dark">
+                                <li>
+                                    <a class="dropdown-item"
+                                       asp-controller="Shoes"
+                                       asp-action="Category"
+                                       asp-route-type="RoadRunning">
+                                        Road Running
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item"
+                                       asp-controller="Shoes"
+                                       asp-action="Category"
+                                       asp-route-type="TrailRunning">
+                                        Trail Running
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item"
+                                       asp-controller="Shoes"
+                                       asp-action="Category"
+                                       asp-route-type="HikingShoes">
+                                        Hiking Shoes
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item"
+                                       asp-controller="Shoes"
+                                       asp-action="Category"
+                                       asp-route-type="HikingBoots">
+                                        Hiking Boots
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                    <!-- Right side authentication -->
+                    <partial name="_LoginPartial" />
+
+
+                </div>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid px-4 py-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="text-center mt-4">
+        <small>&copy; 2026 ShoeVault</small>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

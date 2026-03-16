@@ -1,0 +1,70 @@
+﻿@page
+@model ShoeVault.Areas.Identity.Pages.Account.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="d-flex justify-content-center align-items-center" style="min-height:80vh;">
+    <div class="card p-4 shadow-lg" style="width:100%; max-width:450px; background-color:#111; border:1px solid #2c2c2c;">
+
+        <h2 class="text-center mb-4">Create Your Vault</h2>
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Input.Email" class="form-label"></label>
+                <input asp-for="Input.Email" class="form-control" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Input.Password" class="form-label"></label>
+                <div class="input-group">
+                    <input asp-for="Input.Password" class="form-control" id="registerPassword" />
+                    <button type="button" class="btn btn-outline-secondary"
+                            onclick="togglePassword('registerPassword')">
+                        Show
+                    </button>
+                </div>
+
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Input.ConfirmPassword" class="form-label"></label>
+                <div class="input-group">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" id="registerConfirmPassword" />
+                    <button type="button" class="btn btn-outline-secondary"
+                            onclick="togglePassword('registerConfirmPassword')">
+                        Show
+                    </button>
+                </div>
+
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">
+                Enter the Vault
+            </button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        function togglePassword(fieldId) {
+            const field = document.getElementById(fieldId);
+            if (field.type === "password") {
+                field.type = "text";
+            } else {
+                field.type = "password";
+            }
+        }
+    </script>
+}
+

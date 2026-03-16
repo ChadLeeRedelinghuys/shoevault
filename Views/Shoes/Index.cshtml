@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ShoeVault.Models.Shoe>
+
+@{
+    ViewData["Title"] = "Shoes";
+}
+
+<h1>Shoes</h1>
+
+<p>
+    <a asp-action="Create">Create New Shoe</a>
+</p>
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold">
+            @ViewBag.CategoryTitle Collection
+        </h2>
+
+
+        <a asp-action="Create" class="btn btn-primary">
+            + Add New Shoe
+        </a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="text-center mt-5">
+            <p class="text-muted">Your vault is empty.</p>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var shoe in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 p-3">
+
+                        @if (shoe.Images?.Any() == true)
+                        {
+                            <img src="@shoe.Images.First().ImagePath"
+                                 class="card-img-top rounded mb-3"
+                                 style="height:220px; object-fit:cover;" />
+                        }
+                        else
+                        {
+                            <img src="/images/no-image.png"
+                                 class="card-img-top rounded mb-3"
+                                 style="height:220px; object-fit:cover;" />
+                        }
+
+                        <h5 class="fw-bold">@shoe.Name</h5>
+                        <p class="text-muted">@shoe.Brand</p>
+
+                        <div class="mt-auto d-flex justify-content-between">
+                            <a asp-action="Details"
+                               asp-route-id="@shoe.Id"
+                               class="btn btn-sm btn-outline-light">
+                                View
+                            </a>
+
+                            <a asp-action="Edit"
+                               asp-route-id="@shoe.Id"
+                               class="btn btn-sm btn-outline-primary">
+                                Edit
+                            </a>
+
+                            <a asp-action="Delete"
+                               asp-route-id="@shoe.Id"
+                               class="btn btn-sm btn-outline-danger">
+                                Delete
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+

@@ -1,0 +1,106 @@
+﻿@using System.Linq
+
+@model IEnumerable<ShoeVault.Models.Shoe>
+
+@{
+    ViewData["Title"] = "ShoeVault";
+}
+
+<!-- PREMIUM HERO SECTION -->
+<div class="bg-dark text-white py-5">
+    <div class="container text-center py-5">
+        <h1 class="display-2 fw-bold hero-title">
+            Shoe<span class="text-accent">Vault</span>
+        </h1>
+
+
+        <p class="lead mt-4 mb-4" style="max-width:700px; margin:auto;">
+            Your sneakers. Secured. Organized. Showcased.
+            Build your personal digital vault and manage your collection like a pro.
+        </p>
+
+        <a asp-controller="Shoes"
+           asp-action="Index"
+           class="btn btn-outline-light btn-lg px-5">
+            Enter Vault
+        </a>
+    </div>
+</div>
+
+
+
+<!-- LATEST SHOES -->
+<div class="container">
+    <h2 class="text-center mb-4">Latest Additions</h2>
+
+    @if (!Model.Any())
+    {
+        <p class="text-center text-muted">
+            No shoes added yet. Start by adding your first shoe.
+        </p>
+    }
+    else
+    {
+        <div class="row">
+            @{
+                int index = 0;
+            }
+
+            @foreach (var shoe in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm position-relative">
+
+                        @* NEW BADGE for newest shoe *@
+                        @if (index == 0)
+                        {
+                            <span class="position-absolute px-3 py-1 fw-bold"
+                                  style="
+                    top:15px;
+                    right:15px;
+                    background: linear-gradient(45deg, #FFD700, #FFA500);
+                    color:black;
+                    border-radius:50px;
+                    font-size:0.75rem;
+                    box-shadow:0 0 10px rgba(255,215,0,0.6);
+                  ">
+                                NEW
+                            </span>
+
+                        }
+
+                        @if (shoe.Images?.Any() == true)
+                        {
+                            <img src="@shoe.Images.First().ImagePath"
+                                 class="card-img-top"
+                                 style="height:220px; object-fit:cover;"
+                                 alt="@shoe.Name" />
+                        }
+                        else
+                        {
+                            <img src="/images/no-image.png"
+                                 class="card-img-top"
+                                 style="height:220px; object-fit:cover;"
+                                 alt="No image available" />
+                        }
+
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@shoe.Name</h5>
+                            <p class="card-text text-muted">@shoe.Brand</p>
+
+                            <a asp-controller="Shoes"
+                               asp-action="Details"
+                               asp-route-id="@shoe.Id"
+                               class="btn btn-outline-primary mt-auto">
+                                View Details
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                index++;
+            }
+
+        </div>
+    }
+</div>

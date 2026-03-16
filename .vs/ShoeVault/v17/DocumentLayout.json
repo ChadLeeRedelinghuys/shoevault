@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\migrations\\20260217123713_addshoecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:migrations\\20260217123713_addshoecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\wwwroot\\images\\logo.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:wwwroot\\images\\logo.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\migrations\\20260212091203_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:migrations\\20260212091203_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\migrations\\20260211175813_addshoeimagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:migrations\\20260211175813_addshoeimagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\models\\shoeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:models\\shoeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|c:\\users\\chadl\\onedrive\\documents\\shoevault\\migrations\\20260213092006_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA72741-F3D5-4187-A0FF-A479C6554571}|ShoeVault.csproj|solutionrelative:migrations\\20260213092006_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:11:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T18:03:16.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:51:38.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswJwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-14T19:43:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:07:16.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T18:55:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T19:47:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:13:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:14:05.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:12:44.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:10:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T13:50:46.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:47:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shoes\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T20:45:19.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Shoes\\Edit.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:45:03.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:33:57.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoesController.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "Controllers\\ShoesController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T20:36:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Shoes\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:18:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260217123713_AddShoeCategory.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260217123713_AddShoeCategory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260217123713_AddShoeCategory.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260217123713_AddShoeCategory.cs",
+              "RelativeToolTip": "Migrations\\20260217123713_AddShoeCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:37:19.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\wwwroot\\images\\logo.svg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\logo.svg",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\wwwroot\\images\\logo.svg",
+              "RelativeToolTip": "wwwroot\\images\\logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-02-15T09:47:33.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Models\\Shoe.cs",
+              "RelativeToolTip": "Models\\Shoe.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:54:02.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T09:14:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:46:00.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T18:50:56.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T19:48:06.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T18:55:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260213092006_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260213092006_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260213092006_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260213092006_AddIdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20260213092006_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:20:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260212091203_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260212091203_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260212091203_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260212091203_AddIdentity.cs",
+              "RelativeToolTip": "Migrations\\20260212091203_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:12:04.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T17:58:32.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shoes\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:40:20.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260211175813_AddShoeImagesTable.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260211175813_AddShoeImagesTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260211175813_AddShoeImagesTable.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Migrations\\20260211175813_AddShoeImagesTable.cs",
+              "RelativeToolTip": "Migrations\\20260211175813_AddShoeImagesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:58:15.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShoeImage.cs",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Models\\ShoeImage.cs",
+              "RelativeDocumentMoniker": "Models\\ShoeImage.cs",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Models\\ShoeImage.cs",
+              "RelativeToolTip": "Models\\ShoeImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:28:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\chadl\\OneDrive\\Documents\\ShoeVault\\Views\\Shoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Shoes\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:50:09.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model ShoeVault.Models.Shoe
+
+@{
+    ViewData["Title"] = "Shoe Details";
+}
+
+<h1>@Model.Name</h1>
+
+<p><strong>Brand:</strong> @Model.Brand</p>
+<p><strong>Category:</strong> @Model.Category</p>
+<p><strong>Best For:</strong> @Model.BestFor</p>
+<p><strong>Outsole:</strong> @Model.Outsole</p>
+<p><strong>Description:</strong> @Model.Description</p>
+
+@if (Model.Images?.Any() == true)
+{
+    <div class="row">
+        @foreach (var image in Model.Images)
+        {
+            <div class="col-md-4 mb-3">
+                <img src="@image.ImagePath"
+                     alt="@Model.Name"
+                     class="img-fluid rounded shadow"
+                     style="max-height:250px; object-fit:cover;" />
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p class="text-muted">No images available.</p>
+}
+
+
+
+<p class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to list</a>
+</p>
+
