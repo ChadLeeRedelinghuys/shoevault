@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# ShoeVault 👟
 
 
@@ -157,3 +158,7 @@ GitHub: https://github.com/YOURUSERNAME
 
 
 
+=======
+# shoevault
+ASP.NET Core MVC shoe management web app with authentication and email password reset
+>>>>>>> 75ac5b26bb6830a10276adeb76a13f8cd6d26012
